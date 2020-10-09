@@ -1,2 +1,4 @@
 # hello-world
-am new :)
+hello visitor, 
+am new to this lol 
+pls be gentle 
